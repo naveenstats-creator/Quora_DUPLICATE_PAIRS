@@ -9,7 +9,7 @@ pairs, ~37% labeled duplicate).
 
 Two notebooks, each building on the last:
 
-**`quora_dl_beginner.ipynb`** — classic ML baseline, then a first pass at deep learning:
+**`quora_dl.ipynb`** — classic ML baseline, then a first pass at deep learning:
 1. Clean text (lowercase, remove stopwords, stem)
 2. Train a **Word2Vec** model on the question corpus, mean-pool word vectors into one vector per
    question
